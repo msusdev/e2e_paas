@@ -238,7 +238,7 @@ dapr run --app-id service --dapr-http-port 3737 --app-port 3000 npm run start
 | POST | http://localhost:3737/v1.0/invoke/service/method/echo | { "name": "msusdev@microsoft.com" } |
 
 ```bash
-dapr invoke --app-id service --method test
+dapr invoke --app-id service --method test --verb get
 
 dapr invoke --app-id service --method echo --data '{ \"name\": \"msusdev@microsoft.com\" }'
 ```
