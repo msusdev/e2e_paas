@@ -47,51 +47,51 @@ All demos and source code available online:
 
 ### 
 
-![ ](media/slide1.png)
+![ ](diagrams/appcode+langs.svg)
 
 ###
 
-![ ](media/slide2.png)
+![ ](diagrams/appcode+sidecar.svg)
 
 ###
 
-![ ](media/slide3.png)
+![ ](diagrams/sidecar+types.svg)
 
 ###
 
-![ ](media/slide4.png)
+![ ](diagrams/sidecar+container.svg)
 
 ###
 
-![ ](media/slide5.png)
+![ ](diagrams/sidecar+docker.svg)
 
 ###
 
-![ ](media/slide6.png)
+![ ](diagrams/sidecar+kubernetes.svg)
 
 ###
 
-![ ](media/slide7.png)
+![ ](diagrams/statestore.svg)
 
 ###
 
-![ ](media/slide8.png)
+![ ](diagrams/pubsubbroker.svg)
 
 ###
 
-![ ](media/slide9.png)
+![ ](diagrams/secretstore.svg)
 
 ###
 
-![ ](media/slide10.png)
+![ ](diagrams/statestore+azure.svg)
 
 ###
 
-![ ](media/slide11.png)
+![ ](diagrams/pubsubbroker+azure.svg)
 
 ###
 
-![ ](media/slide12.png)
+![ ](diagrams/secretstore+azure.svg)
 
 ## Demo: Initialize Dapr locally
 
