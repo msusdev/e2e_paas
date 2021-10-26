@@ -1,0 +1,10 @@
+title: Integrate end-to-end solutions with Microsoft Azure
+remote_theme: azure-immersion/workshop-jekyll-theme
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
