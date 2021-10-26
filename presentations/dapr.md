@@ -14,7 +14,7 @@ Co-Presenter Name
 
 ☁️ *Co-Presenter Title*
 
-> For questions or help with this series: <msusdev@Microsoft.com>
+> For questions or help with this series: <msusdev@microsoft.com>
 
 All demos and source code available online:
 
