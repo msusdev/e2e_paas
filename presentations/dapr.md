@@ -166,7 +166,6 @@ dapr invoke --app-id cart --method add
 dapr list
 ```
 
-```
 :::
 
 ## Demo: Invoke Node HTTP API
